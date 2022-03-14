@@ -1,4 +1,4 @@
-# lobbipad's Slack integration
+# Lobbipad's Slack integration
 lobbipad-slack-integration
 
 With the Lobbipad + Slack integration, Lobbipad will send a Slack direct message to your employees every time a visitor arrives to see them.‍
